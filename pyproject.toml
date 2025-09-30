@@ -12,5 +12,5 @@ dependencies = [
     "supabase>=2.20.0",
 ]
 
-[tool.setuptools]
+[tool.poetry]
 package-mode = false
