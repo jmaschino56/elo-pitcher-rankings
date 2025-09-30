@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cat:*)",
+      "Bash(dir:*)",
+      "Bash(powershell:*)",
+      "Bash(uv init:*)",
+      "Bash(uv add:*)",
+      "Bash(uv run:*)",
+      "Bash(curl -s \"https://g837e5a6fbcb0dd-ch2sockkby63dgzo.adb.us-chicago-1.oraclecloudapps.com/ords/admin/pitcher_leaderboards/GET_SEASON\")",
+      "Bash(python:*)",
+      "Bash(curl:*)",
+      "Bash(del response.json)",
+      "Bash(playwright screenshot:*)",
+      "Bash(playwright install:*)",
+      "Bash(node:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

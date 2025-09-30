@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# uv
+uv.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/
+
+# ELO Rating CSVs (user data)
+elo_ratings/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
